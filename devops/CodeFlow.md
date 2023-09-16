@@ -7,6 +7,7 @@ Gitflow is a strategy that has separate branches for different environments. Typ
 ---
 title: GitFlow Diagram
 ---
+
 %%{
     init: {
         'logLevel': 'debug',
@@ -17,6 +18,7 @@ title: GitFlow Diagram
         }
     }
 }%%
+
 gitGraph
     commit
     commit tag: "1.0.0"
