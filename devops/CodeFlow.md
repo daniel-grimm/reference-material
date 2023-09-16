@@ -5,7 +5,7 @@ Gitflow is a strategy that has separate branches for different environments. Typ
 
 ```mermaid
 ---
-title: GitFlow Diagram
+title: GitFlow
 ---
 
 %%{
@@ -47,3 +47,43 @@ gitGraph
 ```
 
 # Trunk Based Development
+
+```mermaid
+---
+title: Trunk Based Development
+---
+
+%%{
+    init: {
+        'logLevel': 'debug',
+        'theme': 'base',
+        'gitGraph': {
+            'showBranches': true,
+            'showCommitLabel': false
+        }
+    }
+}%%
+
+gitGraph
+    commit
+    commit tag: "1.0.0"
+    branch feature1
+    checkout feature1
+    commit
+    commit
+    checkout main
+    commit
+    branch feature2
+    checkout feature2
+    commit
+    commit
+    checkout main
+    merge feature1 tag: "1.0.1"
+    commit
+    checkout feature2
+    merge main tag: "Sync from `main`"
+    commit
+    checkout main
+    merge feature2 tag: "1.0.2"
+    commit
+```
