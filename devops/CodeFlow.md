@@ -54,16 +54,16 @@ Developers use feature branches to create new features or create fixes.
 These branches are branched off of dev and merged back to dev.
 
 ### Development
-Deveopment branches are usually named `dev` or `development`. The purpose of these branches is to have the latest code that has been checked in by the team.
+Development branches are usually named `dev` or `development`. The purpose of these branches is to have the latest code that has been checked in by the team.
 
 ### Release
-Relase branches are either numbered (e.g. v1.0.0, B1R2) or given release names (e.g. beta, release4).
+Release branches are either numbered (e.g. v1.0.0, B1R2) or given release names (e.g. beta, release4).
 
 ### Production
-Production brnahces aer 
+Production branches are
 
 # Trunk Based Development
-Trunk Based Development (TBD) pairs well with Feature Flagging and Shift Left methodology. Short-lived feature branches are created from `main` and merged backe to `main`.
+Trunk Based Development (TBD) pairs well with Feature Flagging and Shift Left methodology. Short-lived feature branches are created from `main` and merged back to `main`.
 
 ## Trunk Based Development Diagram
 ```mermaid

@@ -26,6 +26,6 @@ Yes, if this is your first Azure exam. Although the Azure Fundamentals exam is m
 1. Time or Money Commitment: This is a cheaper, and less involved exam that can be passed relatively easily and cheaply if you are looking for a quick turnaround that doesn't impact your wallet.
 
 ### Which should I take? The Azure Administrator, or the Azure Developer?
-You should take the Azure Administrator because the subjects in the exam will be encountered by every cloud developer. Azure Resource offerings, identity, governance, permissioning, are all topics with which every cloud developer should be familiar.
+You should take the Azure Administrator because the subjects in the exam will be encountered by every cloud developer. Azure Resource offerings, identity, governance, and permissions are all topics with which every cloud developer should be familiar.
 
 The Azure Developer exam has an emphasis on niche, Azure specific tooling that you may not encounter at all in cloud development.
