@@ -114,3 +114,17 @@ Trunk branches can be named `main` or `dev`. All deployments are based off of th
 These are short-lived branches to create a new feature or bugfix.
 
 ## Feature Flagging
+Feature Flagging is the practice of putting new or updated logic inside of a conditional that can be turned on at will. This separates deployments from making new features available to customers.
+
+### Feature Flagging Options
+#### Database Table
+Creating a database table is a cheap, quick and dirty method for enabling feature flagging in your solution. It's unsophisticated and only allows for the feature to be enabled / disabled per environment.
+
+#### Ad Hoc Solution
+You can create your own solution to feature flag that would add more advanced feature flagging features.
+
+#### Azure App Config
+If you are using Azure, App Config is a cloud hosted solution that can still be used for local development.
+
+#### Launch Darkly
+Launch Darkly is a SAAS service that offers advanced feature flagging capabilities but is still easy to use.
