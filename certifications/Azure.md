@@ -12,6 +12,18 @@ Below are the exams I have both taken and recommend:
 - AZ-104: Azure Administrator
 - AZ-305: Azure Solutions Architect
 
+# AZ-900
+Great introductory exam for non-technical folks or people who want to become familiar with how to take an Azure exam.
+
+# DP-900
+Introductory course to basic data concepts and data services in Azure.
+
+# AZ-104
+Medium depth course that teaches you the services and the details of how to use them to create solutions.
+
+# AZ-305
+Deep course that teaches you how to take requirements and turn them into a quality recommendation for a solution.
+
 ## Azure Certifications FAQ
 ### Should I tak the exam online or at a test center?
 You should take the exam at a testing center. The software to take a test online can be over aggressive and cause issues during your test. If there is a technical issue at a testing center, there are trained professionals to assist you getting past any issues.
