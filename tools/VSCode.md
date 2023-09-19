@@ -17,3 +17,8 @@ Dark (but not too dark) theme. This is very popular and supported by other tooli
 
 ## Material Icon Theme
 Nice Visual flair for the Explorer view.
+
+## Code Spell Checker
+
+# Extension Recommendation
+VS Code supports a JSON format to recommend extensions to be used in the repo.
