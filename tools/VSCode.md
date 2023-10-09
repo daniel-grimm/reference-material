@@ -22,3 +22,16 @@ Nice Visual flair for the Explorer view.
 
 # Extension Recommendation
 VS Code supports a JSON format to recommend extensions to be used in the repo.
+
+```json
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "rvest.vs-code-prettier-eslint",
+        "esbenp.prettier-vscode",
+        "streetsidesoftware.code-spell-checker",
+        "bierner.markdown-mermaid"
+    ]
+}
+```
