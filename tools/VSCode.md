@@ -4,7 +4,7 @@ VS Code is a great lightweight text editor that supports extensions.
 # Recommended Extensions
 
 ## Error Lens
-Shows error messages inline of the editor
+Shows error messages inline of the editor.
 
 ## Markdown Preview Mermaid Support
 Adds the ability to display Mermaid diagrams in the Markdown Preview window.
