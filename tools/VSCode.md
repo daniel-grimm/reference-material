@@ -1,6 +1,11 @@
 # VS Code
 VS Code is a great lightweight text editor that supports extensions.
 
+# Dev Containers
+Dev containers are a novel feature of Visual Studio Code that allow for consistent, repeatable, development environments.
+
+Every developer has run into the issue of a node version being out of sync with the one required to run the project and therefore weird issues start appearing. Dev Containers solves this inconsistency by providing a Docker container in the .devcontainers folder that a developer can start and launch into an environment that is consistent with the setup of other developers on the team.
+
 # Recommended Extensions
 
 ## Error Lens
