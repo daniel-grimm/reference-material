@@ -9,24 +9,49 @@ Every developer has run into the issue of a node version being out of sync with 
 # Recommended Extensions
 
 ## Error Lens
-Shows error messages inline of the editor.
+This extension displays error messages inline of the editor. This is really nice for seeing what the compiler is complaining about without having to mouse hover over the squiggly line. I love this extension for increasing development speed.
 
 ## Markdown Preview Mermaid Support
-Adds the ability to display Mermaid diagrams in the Markdown Preview window.
+Mermaid is quickly becoming the industry standard for UML Diagramming as Code. The extension adds the ability to display Mermaid diagrams in the Markdown Preview window of VS Code.
 
 ## Auto Rename Tag
-Automatically renames the closing tag.
+Automatically renames the closing tag in an HTML or JSX file. This is a nice feature so you don't have to set up multi-cursor or write the same change in two different locations.
 
-## Dracula official
-Dark (but not too dark) theme. This is very popular and supported by other tooling like Warp (terminal) and Visual Studio.
+## Theming
+Themes are personal preference and the themes I prefer can change depending on the time of day or how tired I am.
 
-## Material Icon Theme
-Nice Visual flair for the Explorer view.
+### Themes
+1. Dracula
+1. Monokai Ristretto
+1. VS Code built in Themes
+1. GitHub Themes
+1. Red
+1. Solarized light
+
+### Icon Themes
+1. Material Icon Theme
+1. VS Code Icons
 
 ## Code Spell Checker
+Bringing the power of spell check to the editor is great and increases the professional quality of your code. You can parlay this feature with the `settings.json` feature of VS Code to disable certain words from being flagged as misspelled.
+
+Example `settings.json` to add words to the spell checker dictionary:
+
+```json
+{
+    "cSpell.words": [
+        "chakra",
+        "zustand",
+        "msal"
+    ]
+}
+
+```
 
 # Extension Recommendation
-VS Code supports a JSON format to recommend extensions to be used in the repo.
+A nifty feature of VS Code is recommended extensions. It's a way to standardize the tools that developers of the project use to complete their work. When a developer opens the project in VS Code a popup will appear prompting the developer to install the recommended extensions. After agreeing to add the extensions, VS Code will figure out the ones you have not previously installed and install the missing extensions for you.
+
+Below is an example of an `extensions.json` to recommend extensions to other developers.
 
 ```json
 {
@@ -34,9 +59,14 @@ VS Code supports a JSON format to recommend extensions to be used in the repo.
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
         "rvest.vs-code-prettier-eslint",
-        "esbenp.prettier-vscode",
         "streetsidesoftware.code-spell-checker",
-        "bierner.markdown-mermaid"
+        "bierner.markdown-mermaid",
+        "usernamehw.errorlens",
+        "formulahendry.auto-rename-tag",
+        "eamodio.gitlens",
+        "christian-kohler.path-intellisense",
+        "ms-vscode.vscode-typescript-next",
+        "PKief.material-icon-theme"
     ]
 }
 ```
