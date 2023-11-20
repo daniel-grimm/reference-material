@@ -1,7 +1,9 @@
 # Deployment Flows
 
 # Environment Based Branching
+Environment Based Branching has a 1:1 relationship between a Git branch and a deployed environment. When you want to deploy changes to a different environment, you merge changes from one git branch into another.
 
+# Example Deployment Flow Diagram
 ```mermaid
 ---
 title: Environment Based Branching Deployments
