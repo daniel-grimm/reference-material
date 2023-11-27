@@ -13,13 +13,13 @@ Below are the exams I have both taken and recommend:
 - AZ-305: Azure Solutions Architect
 
 # AZ-900
-Great introductory exam for non-technical folks or people who want to become familiar with how to take an Azure exam.
+This is a great introductory exam for non-technical folks or people who want to become familiar with how to take an Azure exam. The software that you use to take Azure exams can be somewhat confusing for a first-time test taker. I would recommend taking this as your first exam to learn the different ways in which you will be asked to answer questions (e.g. single select, multi-select, drag and drop etc.).
 
 # DP-900
-Introductory course to basic data concepts and data services in Azure.
+The Data Fundamentals certification is an introductory course to basic data concepts and data services in Azure. I think this is a terrific introduction to data and is light on the marketing materials aspect of a lot of foundational exams.
 
 # AZ-104
-Medium depth course that teaches you the services and the details of how to use them to create solutions.
+The Azure Administrator certificate is a medium depth course that teaches you the services and the details of how to use them to create solutions.
 
 # AZ-305
 Deep course that teaches you how to take requirements and turn them into a quality recommendation for a solution.
