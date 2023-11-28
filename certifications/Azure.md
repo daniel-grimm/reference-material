@@ -19,10 +19,10 @@ This is a great introductory exam for non-technical folks or people who want to 
 The Data Fundamentals certification is an introductory course to basic data concepts and data services in Azure. I think this is a terrific introduction to data and is light on the marketing materials aspect of a lot of foundational exams.
 
 # AZ-104
-The Azure Administrator certificate is a medium depth course that teaches you the services and the details of how to use them to create solutions.
+The Azure Administrator certificate is a medium depth course that teaches you the services in greater detail and has an emphasis from an identity and governance perspective. Not only will you need to know how to use the common Azure offerings, but also how to do it in a way that is secure. Group membership and management, JIT credentials, and Least Privilege principles are all questions you can expect on the exam.
 
 # AZ-305
-Deep course that teaches you how to take requirements and turn them into a quality recommendation for a solution.
+This is a deep certification that teaches you how to interpret requirements and turn them into a quality solution. You must not only know the details of the services, but how they meet requirements across different segments including cost, redundancy, scalability, and more.
 
 ## Azure Certifications FAQ
 ### Should I tak the exam online or at a test center?
