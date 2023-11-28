@@ -6,7 +6,7 @@ Azure Certifications are great way to learn about the services Azure offers and 
 *Source https://k21academy.com/microsoft-azure/certification-path/*
 
 ## Recommended Certifications
-Below are the exams I have both taken and recommend:
+Below are the exams I have both taken and highly recommend:
 - AZ-900: Azure Fundamentals
 - DP-900: Data Fundamentals
 - AZ-104: Azure Administrator
@@ -25,8 +25,8 @@ The Azure Administrator certificate is a medium depth course that teaches you th
 This is a deep certification that teaches you how to interpret requirements and turn them into a quality solution. You must not only know the details of the services, but how they meet requirements across different segments including cost, redundancy, scalability, and more.
 
 ## Azure Certifications FAQ
-### Should I tak the exam online or at a test center?
-You should take the exam at a testing center. The software to take a test online can be over aggressive and cause issues during your test. If there is a technical issue at a testing center, there are trained professionals to assist you getting past any issues.
+### Should I take the exam online or at a test center?
+You should take the exam at a testing center. The anit-cheat software and measures to take a test online can cause issues during your test. If there is a technical issue at a testing center, there are trained professionals to assist you getting past any problems or network outages.
 
 Additionally, testing centers will ensure that there are no distractions to help you focus on the exam.
 
@@ -38,6 +38,9 @@ Yes, if this is your first Azure exam. Although the Azure Fundamentals exam is m
 1. Time or Money Commitment: This is a cheaper, and less involved exam that can be passed relatively easily and cheaply if you are looking for a quick turnaround that doesn't impact your wallet.
 
 ### Which should I take? The Azure Administrator, or the Azure Developer?
-You should take the Azure Administrator because the subjects in the exam will be encountered by every cloud developer. Azure Resource offerings, identity, governance, and permissions are all topics with which every cloud developer should be familiar.
+You should take the Azure Administrator because the subjects in the exam will be encountered by every cloud developer. Azure Resource offerings, identity, governance, and permissions are all topics with which every Azure cloud developer should be familiar.
 
 The Azure Developer exam has an emphasis on niche, Azure specific tooling that you may not encounter at all in cloud development.
+
+### What other exams have you taken?
+I've taken the AZ-400 Azure DevOps Engineer expert. This exam is not one I highly recommend because the majority of content is learned by taking the other exams. The content that is new, is software recommended by Microsoft and not necessarily the solutions you will use on your project.
