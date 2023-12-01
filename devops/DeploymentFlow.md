@@ -22,3 +22,6 @@ flowchart TD
     prod -- 4. Sync `main` and `release` --> release
     release -- 5. Sync `release` and `dev` --> dev
 ```
+
+# Trunk Based Deployments
+Trunk based deployments is a great method to make sure the branch that is the source of truth for commits, is also the source of the deployments to multiple environments.
