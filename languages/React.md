@@ -8,6 +8,11 @@ React is unopinionated and therefore a common complaint is how different project
 Next.js is a meta-framework for React that seeks to add structure and more functionality than is possible using pure React.
 
 ## Pages
+Pages are handled two different ways in Next.js via file based routing, and through a new app router.
+
+The older method for pages has been via file based routing using the `pages` directory, meaning, where the index file is in the folder structure, that will be automatically mapped to the website's URL.
+
+The app router supports many of the same features as file based routing but uses the `app` directory.
 
 ## Layouts
 
