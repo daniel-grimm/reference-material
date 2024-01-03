@@ -15,6 +15,7 @@ The older method for pages has been via file based routing using the `pages` dir
 The app router supports many of the same features as file based routing but uses the `app` directory.
 
 ## Layouts
+Layouts are a great way to create a reusable format for your website. And you can have multiple formats to fit different screen sizes.
 
 ## Modules
 
