@@ -18,5 +18,7 @@ The app router supports many of the same features as file based routing but uses
 Layouts are a great way to create a reusable format for your website. And you can have multiple formats to fit different screen sizes.
 
 ## Modules
+Modules are visually grouped items on the page that have related, but different data.
 
 ## Components
+Components are atomic visual components that can be re-used within the application.
