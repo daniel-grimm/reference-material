@@ -20,5 +20,7 @@ Layouts are a great way to create a reusable format for your website. And you ca
 ## Modules
 Modules are visually grouped items on the page that have related, but different data.
 
+Modules will often incorporate multiple components with related, but different data.
+
 ## Components
 Components are atomic visual components that can be re-used within the application.

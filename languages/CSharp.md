@@ -1,4 +1,5 @@
 # C#
+C# is a language developed and maintained by Microsoft. It's often used in conjunction with the .NET platform also created and maintained by Microsoft.
 
 ## Example Controller
 ```csharp
