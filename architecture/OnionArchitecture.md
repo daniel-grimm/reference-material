@@ -7,6 +7,9 @@ There are for segments to the onion including:
 - Domain
 - Infrastructure
 
+# When to Use Onion Architecture
+The purpose of Onion architecture is to have very strong separations of concern, even within the API. The controllers only responsibility is for objects coming or going across the wire. The Application layer is only concerned about business logic, etc.
+
 # API
 The API layer is concerned about the the objects coming and going from the application and the controller definitions.
 
