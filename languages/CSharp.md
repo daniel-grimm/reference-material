@@ -1,6 +1,9 @@
 # C#
 C# is a language developed and maintained by Microsoft. It's often used in conjunction with the .NET platform also created and maintained by Microsoft.
 
+# ASP.NET Core MVC
+ASP.NET Core MVC has become the standard way to make APIs using C# and .NET. Using the controllers as REST endpoints, it is flexible to most architectural patterns.
+
 ## Example Controller
 ```csharp
 using System;
