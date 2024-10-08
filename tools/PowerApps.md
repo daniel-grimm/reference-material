@@ -2,6 +2,8 @@ Power Apps are Microsoft's no code / low code solution.
 
 Power Apps comes in two main flavors Canvas apps, and Model Driven Apps.
 
+Power Apps also have strong integration and automation capabilities. There are dozens of integrations with Teams, Outlook, Sharepoint, and non-Microsoft offerings that enable advanced capabilities. Power Automate can also be integrated to allow actions to occur automatically based on triggers.
+
 # Canvas Apps
 Canvas driven apps give the developer complete control over the UI and data of the application.
 
