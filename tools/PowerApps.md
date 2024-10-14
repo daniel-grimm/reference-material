@@ -13,3 +13,6 @@ Model Driven Apps are more structured, where the user defines the data structure
 Model Driven Apps provide pre-packaged components that can be drag and dropped to create interactive forms to capture user data and insert it into Microsoft Datavers.
 
 Models can have rules and validation applied using Business Rules. These rules are applied dynamically as the user goes through the form.
+
+# Power Automation
+Power Automation lets you create workflows using a library of plugins. Merely enter in a trigger condition, and fill out the parameters for each plugin and workloads will be automatically created.
