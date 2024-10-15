@@ -16,3 +16,5 @@ Models can have rules and validation applied using Business Rules. These rules a
 
 # Power Automation
 Power Automation lets you create workflows using a library of plugins. Merely enter in a trigger condition, and fill out the parameters for each plugin and workloads will be automatically created.
+
+These automations can be triggered manually, or automatically.
