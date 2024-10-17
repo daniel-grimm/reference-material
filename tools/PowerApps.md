@@ -14,6 +14,8 @@ Model Driven Apps provide pre-packaged components that can be drag and dropped t
 
 Models can have rules and validation applied using Business Rules. These rules are applied dynamically as the user goes through the form.
 
+What if you want to create complex data structures? Dataverse supports that! You can create Many-to-one and Many-to-Many relationships between tables to connect information together.
+
 # Power Automation
 Power Automation lets you create workflows using a library of plugins. Merely enter in a trigger condition, and fill out the parameters for each plugin and workloads will be automatically created.
 
