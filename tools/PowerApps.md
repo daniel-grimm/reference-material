@@ -7,6 +7,8 @@ Power Apps also have strong integration and automation capabilities. There are d
 # Canvas Apps
 Canvas driven apps give the developer complete control over the UI and data of the application.
 
+Canvas apps are being left behind in favor of the Model Driven architecutre due to the rigors of enforcing an object structure.
+
 # Model Driven Apps
 Model Driven Apps are more structured, where the user defines the data structure, before adding UI and additional controls, albeit in a more limited fashion than a Canvas app.
 
