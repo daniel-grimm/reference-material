@@ -14,7 +14,7 @@ Model Driven Apps are more structured, where the user defines the data structure
 
 Model Driven Apps provide pre-packaged components that can be drag and dropped to create interactive forms to capture user data and insert it into Microsoft Datavers.
 
-Models can have rules and validation applied using Business Rules. These rules are applied dynamically as the user goes through the form.
+Models can have rules and validation applied using Business Rules. These rules are applied dynamically as the user goes through the form. These rules can be activated or deactivated separately from the columns to make the changes apply immediately.
 
 What if you want to create complex data structures? Dataverse supports that! You can create Many-to-one and Many-to-Many relationships between tables to connect information together.
 
