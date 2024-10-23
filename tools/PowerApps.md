@@ -21,6 +21,6 @@ What if you want to create complex data structures? Dataverse supports that! You
 # Power Automation
 Power Automation lets you create workflows using a library of plugins. Merely enter in a trigger condition, and fill out the parameters for each plugin and workloads will be automatically created.
 
-These automations can be triggered manually, or automatically.
+These automations can be triggered manually, or automatically. Automated triggers fall into two categories: Scheduled, and automated. The scheduled flows will execute on a set schedule, the automated flows will trigger when a condition is met.
 
 Most of the third party plugins require a premium (paid) tier of service, but even the Microsoft native plugins are pretty powerful.
