@@ -24,3 +24,6 @@ Power Automation lets you create workflows using a library of plugins. Merely en
 These automations can be triggered manually, or automatically. Automated triggers fall into two categories: Scheduled, and automated. The scheduled flows will execute on a set schedule, the automated flows will trigger when a condition is met.
 
 Most of the third party plugins require a premium (paid) tier of service, but even the Microsoft native plugins are pretty powerful.
+
+## Shortcomings
+References to other tables in Dataverse is a bit mysterious. Not all data types can be referenced via formula. For instance Text can be referred to via formula, but Email, which is a sub-type of Text, cannot be referenced.
