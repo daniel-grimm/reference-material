@@ -28,4 +28,4 @@ Most of the third party plugins require a premium (paid) tier of service, but ev
 ## Shortcomings
 References to other tables in Dataverse is a bit mysterious. Not all data types can be referenced via formula. For instance Text can be referred to via formula, but Email, which is a sub-type of Text, cannot be referenced.
 
-I find a feature of Power Apps to also be a flaw. If you have a column that is a part of a form or process or flow, you cannot delete the column without first removing the reference and republishing. This is a huge headache when wanting to do something as simple as changing the sub-type of the column.
+I find a feature of Power Apps to also be a flaw. If you have a column that is a part of a form or process or flow, you cannot delete the column without first removing the reference and republishing. This is a huge headache when wanting to do something as simple as changing the sub-type of the column. This can cause extensive menial re-work as you delete all references, change the type, and then re-add all the references in the application.
